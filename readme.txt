@@ -2,6 +2,6 @@
 git is a version control system.
 git is a free software.
 my stupid boss want to cut my salary
-fuck you
+fuck you is not polite
 helloe hello
 i want to merge feature1
