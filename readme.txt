@@ -6,4 +6,5 @@ fuck you is not polite
 helloe hello
 i want to merge feature1
 la la la la la
-这里是ubuntu的提交第二次 
+这里是修改之后从win10 提交
+那我这样子总可以了吧(ubuntu)
